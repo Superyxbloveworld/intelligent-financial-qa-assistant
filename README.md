@@ -71,7 +71,7 @@ uv sync --extra streamlit
 make run-streamlit
 ```
 
-![默认演示界面](docs/demo-screenshot.png)
+![PDF 解析与可靠性验证](docs/reliability-01-pdf-parse.png)
 
 可复现的运行证据：
 
