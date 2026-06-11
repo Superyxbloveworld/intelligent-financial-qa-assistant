@@ -1,0 +1,17 @@
+.env
+.venv/
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+*.zip
+data/input/current-upload.pdf
+artifacts/*.json
+artifacts/*.jsonl
+artifacts/pages/
+artifacts/bin/

@@ -1,0 +1,10 @@
+{"question":"2025 年 6 月 30 日短期借款合计是多少？","expected_status":"supported","expected_value":"27,257,591,390.02","expected_page":5}
+{"question":"2024 年 12 月 31 日短期借款合计是多少？","expected_status":"needs_review","expected_value":"14,101,152,744.56","expected_page":6}
+{"question":"2025 年金融负债合计是多少？","expected_status":"supported","expected_value":"1,425,380,340,259.77","expected_page":5}
+{"question":"2025 年其他综合收益合计期末余额是多少？","expected_status":"supported","expected_value":"1,694,011,073.20","expected_page":3}
+{"question":"2024 年其他综合收益合计期末余额是多少？","expected_status":"supported","expected_value":"1,388,628,408.15","expected_page":4}
+{"question":"短期借款是多少？","expected_status":"clarification_required"}
+{"question":"2025 年营业收入是多少？","expected_status":"no_answer"}
+{"question":"2025 年交易性金融负债无期限是多少？","expected_status":"supported","expected_value":"18,089,763,103.38","expected_page":5}
+{"question":"2024 年中信建投证券股份有限公司期末账面价值是多少？","expected_status":"supported","expected_value":"4,053,770,084.70","expected_page":1}
+{"question":"2024 年应付债券 5 年以上是多少？","expected_status":"needs_review","expected_page":6}
