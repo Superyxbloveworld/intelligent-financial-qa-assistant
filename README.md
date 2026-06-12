@@ -29,6 +29,8 @@
 
 AI Coding 的具体使用、错误假设和修正记录见 [AI Coding 协作与校验记录](docs/AI_USAGE.md)。运行项目后，可打开 <http://127.0.0.1:8501/reliability?section=reasoning> 查看决策与验证摘要。
 
+后续负责系统时的交付判断、效果优化方法和工作方式见 [补充确认说明](FOLLOWUP.md)。
+
 ## 快速开始
 
 要求安装 [uv](https://docs.astral.sh/uv/)。当前 OCR 后端使用 macOS Vision；非 macOS 环境仍可解析原生文本页，但扫描页会明确报告 OCR 不可用。
